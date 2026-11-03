@@ -18,7 +18,7 @@ conda activate GeoPMR
 
 ## Datasets
 
-To reproduce the reported results, the datasets used in this study is available on Zenodo as **`raw_data.zip`**. The Zenodo link and DOI will be added upon publication of the data release.
+To reproduce the reported results, the datasets used in this study is available on [Zenodo](https://zenodo.org/records/23905040) as **`raw_data.zip`**. The Zenodo link and DOI will be added upon publication of the data release.
 
 ### Prepared data archive
 
