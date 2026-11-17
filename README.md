@@ -172,7 +172,7 @@ The scripts write features under `raw_data/ogbg_molsider/` and predictions to `r
 
 If you find this work useful, please cite our paper:
 ```bibtex
-@inproceedings{zheng2026muss,
+@inproceedings{li2026geopmr,
   title = {GeoPMR: Preserving Relational and Hierarchical Geometry in Multimodal Molecular Representation Learning},
   author = {Lusheng Li and Menglin Yang},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
